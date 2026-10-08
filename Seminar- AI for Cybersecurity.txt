@@ -1,0 +1,71 @@
+Seminar: Paper Presentation 
+
+AI for Cybersecurity (D7084E/D7041E) 
+Note: the seminar is held once. There is no second chance. Read this page before you choose your paper. 
+
+1. What you do 
+Your group chooses one published research paper on a topic from this course, or on any application of AI to 
+cybersecurity, and presents it to the class. Fifteen groups present on the same day. 
+
+2. Choosing the paper 
+• Peer-reviewed, published in a journal or at a conference. Preprints, blog posts and magazine articles are not 
+accepted. 
+• On a course topic (supervised, semi-supervised or self-supervised learning, explainable AI, belief rule-based 
+systems) or on an AI application in cybersecurity (intrusion detection, malware, ransomware, phishing, fraud, 
+critical infrastructure). 
+• Published 2020 or later, unless you can justify an older paper. Papers cited in the lecture slides may be used. 
+• You can present your master thesis research. 
+3. Recordings, before the seminar 
+Every member records themselves presenting their own part of the talk. 
+
+• Face visible throughout, camera on, with your slides on screen. 
+• Three to five minutes per member. One file per member, named Group_NN_Surname.mp4 
+• Upload to CANVAS by23:59 on 13 Oct 2026. 
+• A member whose recording is missing fails, even if the group presents well. The recordings are how I confirm 
+that every member took part in preparing the work ( send one group recode). 
+4. The presentation 
+• Ten to twelve minutes, then five minutes of questions. Keep to time, I will stop you at twelve minutes. 
+• Every member speaks. 
+• Ten to fifteen slides: the problem and why it matters, the data, the method, the results, what the paper does 
+well and where it is weak, how it connects to this course, your own verdict. 
+• Explain the paper in your own words. Do not read it aloud. 
+• Upload your slides to CANVAS before the seminar starts. 
+5. Attendance 
+• Attend the whole seminar, not only your own slot. 
+• A member who is absent fails. The seminar is held once. There is no resit, no later date and no alternative task. 
+• Pass and fail are decided individually. If one member is absent, that member fails and the rest of the group is 
+assessed normally. 
+6. Deadlines 
+• Recordings uploaded — 13-Oct , 23:59 
+• Slides uploaded — 13 oct , 8:00 AM 
+• Seminar — 13 oct 2026 from 14:45 to 18:00 
+
+Grading 
+
+The seminar is graded Pass or Fail. 
+
+Result Requirements 
+Pass All of the following: 
+• The recording was submitted by the deadline, with the member's face visible. 
+• The member attended the seminar and spoke during the presentation. 
+• The paper is explained accurately: what problem it addresses, what data and method 
+it uses, and what it found. 
+• The group says what the paper does well and where it is weak, for example the limits 
+of the dataset, missing baselines, metrics that flatter the result, or an evaluation the 
+authors did not carry out. 
+• The connection to this course is made explicit. 
+• Questions from the audience are answered, and the member shows knowledge of the 
+paper beyond their own section. 
+• The presentation keeps within ten to twelve minutes and uses ten to ten. fifteen 
+slides. 
+Fail Any of the following: 
+• The member is absent from the seminar. 
+• The required recording was not submitted by the deadline. 
+• The member does not speak during the presentation. 
+• The presentation shows that the paper was not read or not understood. 
+• The group runs out of time before every member has spoken. In this case the whole 
+group fails, including the members who already presented. 
+
+The seminar is held once. 
+
+
